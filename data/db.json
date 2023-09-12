@@ -1,0 +1,14 @@
+{
+  "productos": [
+    {
+      "id": "ae66bd13-02b3-449f-b3fe-eff018896f09",
+      "texto": "hola mi hermnao",
+      "completada": false
+    },
+    {
+      "id": "61fe1408-abe8-4c4f-95a0-61700156b109",
+      "texto": "hola",
+      "completada": false
+    }
+  ]
+}
